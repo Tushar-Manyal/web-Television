@@ -19,7 +19,7 @@ export const Home = () => {
               like Your Ultimate Guide to Must-Watch Content.
             </p>
             <div className="hero-btn">
-              <NavLink to="/movie" className="btn">
+              <NavLink to="/movies" className="btn">
                 Explore Now
               </NavLink>
             </div>
